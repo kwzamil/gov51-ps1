@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-Repository: https://github.com/kwzamil/gov51-ps1
+Repository: https://github.com/kwzamil/gov51
 ---
 
 ## Quarto
